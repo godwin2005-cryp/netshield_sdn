@@ -1,0 +1,5 @@
+flask
+requests
+netmiko
+paramiko
+python-dotenv
