@@ -1,8 +1,8 @@
 # NetShield SDN
 
-Système de détection et d'isolation automatique des machines compromises, conçu et validé sur l'infrastructure réseau réelle du **Ministère du Travail et de la Fonction Publique (MTFP), Cotonou**, dans le cadre d'un stage Cybersécurité & SDN (février–avril 2025).
+Système de détection et d'isolation automatique des machines compromises, conçu et validé sur l'infrastructure réseau réelle du **Ministère de l'économie et des finances en charge du budget et de la Fonction Publique (MBFP), Cotonou**, dans le cadre d'un stage Cybersécurité & SDN (février–avril 2025).
 
-> Ce projet a fait l'objet d'un mémoire de fin de formation co-signé avec TCHEDE Godwin Erioluwa (Institut Universitaire Les Cours Sonou, 2025-2026). Le code de ce dépôt correspond à la partie développée individuellement par GBEHOLO Mahouna Gajhor Wilson.
+> Ce projet a fait l'objet d'un mémoire de fin de formation co-signé avec GBEHOLO Mahouna Gajhor Wilson (Institut Universitaire Les Cours Sonou, 2025-2026). Le code de ce dépôt correspond à la partie développée individuellement par TCHEDE Godwin
 
 ## Contexte
 
