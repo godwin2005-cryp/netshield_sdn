@@ -107,4 +107,4 @@ Le déploiement automatique de l'agent (`deploy_agent_all()`) teste une liste d'
 
 ---
 
-*Auteur : Mahouna Gajhor Wilson GBEHOLO — [github.com/GBEHOLOWilson](https://github.com/GBEHOLOWilson)*
+*Auteur : TCHEDE Godwin Erioluwa*
